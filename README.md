@@ -57,7 +57,7 @@ install.packages(c("shiny", "shinydashboard", "readr",
 
 ## What I Found
 
-*(Key insights from the dashboard — updating soon)*
+*(Key insights from the dashboard )
 
 ## What I Learned
 
@@ -65,3 +65,11 @@ This project taught me how to design a primary survey, work with
 real-world messy data, and build an interactive dashboard from
 scratch in R. It also made me realize how price-sensitive Gen-Z
 actually is — discounts matter way more than I expected.
+
+## What I Built
+
+An interactive Shiny dashboard built in R that lets you explore
+the survey results visually — filter by gender, city, platform,
+and more to see how different segments of Gen-Z shop differently.
+
+🎥 **Live Demo:** [Watch on YouTube](https://youtu.be/a_x4gnU-GPw)
